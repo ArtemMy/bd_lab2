@@ -9,4 +9,4 @@
 
 Например:
 ./tf-idf.py wiki/* > engine
-./search.py engine kitten
+./search.py engine music

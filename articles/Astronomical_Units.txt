@@ -1,3 +1,0 @@
-Astronomical_Units.txt	#Redirect [[Astronomical unit]]
-
-{{Redr|move|from other capitalisation|from plural|up}}
